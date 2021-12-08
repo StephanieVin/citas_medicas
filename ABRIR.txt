@@ -1,0 +1,4 @@
+USUARIO: rubi_casillaas31@hotmail.com
+CONTRASEÑA:11111
+
+LA BASE DE DATOS SE LLAMA proyecto_final
